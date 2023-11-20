@@ -1,0 +1,23 @@
+[
+    {
+        "id": "producto 1",
+        "nombre": "Zapatillas 1",
+        "precio": "1200",
+        "category": "nike",
+        "descripcion": "naranja y blanco"
+    },
+    {
+        "id": "producto 2",
+        "nombre": "Zapatillas 2",
+        "precio": "1200",
+        "category": "nike",
+        "descripcion": "blanco"
+    },
+    {
+        "id": "producto 3",
+        "nombre": "Zapatillas 3",
+        "precio": "1200",
+        "category": "nike",
+        "descripcion": "negro, rojo y blanco"
+    }
+]
